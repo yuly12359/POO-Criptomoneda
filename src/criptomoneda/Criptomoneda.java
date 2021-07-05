@@ -7,6 +7,9 @@ public class Criptomoneda {
     public static void main(String[] args) {
     Scanner scan = new Scanner (System.in);
      //Atributos
+     
+     
+     /*
      String Nombre;
      String Rut;
      boolean DineroActivo = true;
@@ -41,7 +44,7 @@ public class Criptomoneda {
      System.out.println("Cuanto de dinero desea Retirar: "); 
      Scanner ac6= new Scanner (System.in);
      dinero = ac6.nextInt();
- 
+     */
         
      }
       
